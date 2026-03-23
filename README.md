@@ -1,7 +1,7 @@
-Hello Everyone, im logesh
+Hello Everyone, im logesh :-)
 
-here ive wrote a html code for a 3d car game
+here i've wrote a html code for a 3d car game !!
 
-you can play as it is by simply downloading it to your desktop as a .html file and simply launch to enjoy ❤️
+you can play it by simply downloading it to your desktop as a .html file and just launch to enjoy ❤️
 
 have a nice day (*^_^*)
